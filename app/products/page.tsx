@@ -7,7 +7,7 @@ const products = [
     name: "Tiles",
     description:
       "A vast selection of high-quality tiles for every application, from elegant ceramic to durable porcelain and natural stone.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/ceramic1.jpg",
     icon: Tiling, // Placeholder icon
     details: [
       "Floor Tiles: Durable and stylish options for high-traffic areas.",
@@ -20,7 +20,7 @@ const products = [
     name: "Terrazzo",
     description:
       "Custom-designed terrazzo surfaces offering unique patterns and exceptional durability for both modern and classic aesthetics.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/Terrazo1.jpg",
     icon: Sparkles, // Placeholder icon
     details: [
       "In-situ Terrazzo: Seamless and customizable flooring for large areas.",
@@ -32,7 +32,7 @@ const products = [
     name: "Granite",
     description:
       "Robust and beautiful granite solutions, perfect for countertops, flooring, and architectural features that demand strength and elegance.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/granite1.jpg",
     icon: Gem, // Placeholder icon
     details: [
       "Kitchen Countertops: Heat and scratch-resistant surfaces.",
@@ -44,7 +44,7 @@ const products = [
     name: "Mosaic",
     description:
       "Artistic mosaic installations that add a touch of intricate beauty and personalized flair to any space.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/mosaic1.jpg",
     icon: LayoutGrid, // Placeholder icon
     details: [
       "Custom Murals: Unique designs for walls, floors, and pools.",
@@ -56,7 +56,7 @@ const products = [
     name: "Installation & Consultancy",
     description:
       "Beyond products, we offer expert installation services and professional consultancy to ensure your project's success from start to finish.",
-    image: "/placeholder.svg?height=400&width=600",
+    image: "/images/consu.jpg",
     icon: Wrench, // Placeholder icon
     details: [
       "Professional Installation: Skilled craftsmen ensuring precise and durable application.",

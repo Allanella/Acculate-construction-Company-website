@@ -102,7 +102,7 @@ export default function ContactUsPage() {
               <Phone className="h-8 w-8 text-primary flex-shrink-0" />
               <div>
                 <h3 className="text-xl font-semibold text-foreground">Phone</h3>
-                <p className="text-muted-foreground">+1 (123) 456-7890</p>
+                <p className="text-muted-foreground">+256 700966715</p>
               </div>
             </div>
             <div className="flex items-center gap-4">
